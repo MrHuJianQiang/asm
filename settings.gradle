@@ -1,0 +1,3 @@
+rootProject.name='TestAsm'
+include ':app'
+include ':testasm_plugin'
